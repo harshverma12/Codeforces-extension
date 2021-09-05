@@ -1,5 +1,6 @@
 # Codeforces-extension
-![newplot ](https://user-images.githubusercontent.com/63600889/132132977-ce99aa27-0a76-477a-b326-e67bd6e10334.png)
+ ![image](https://user-images.githubusercontent.com/63600889/132133065-5fc322f3-5a81-479f-a1c7-b9d4b1faae32.png)
+
 
 
 <h3>How to install this extension : </h3>
