@@ -1,4 +1,5 @@
 # Codeforces-extension
+![newplot ](https://user-images.githubusercontent.com/63600889/132132977-ce99aa27-0a76-477a-b326-e67bd6e10334.png)
 
 
 <h3>How to install this extension : </h3>
